@@ -1,3 +1,7 @@
+![ Hospital Management Analysis](https://github.com/Amit380/Hospital_Management_Analysis/blob/main/Hospital%20Management%20Analysis%20.jpg)
+
+
+
 # Hospital Management Analysis
 
 ### ✤ Project Description:
